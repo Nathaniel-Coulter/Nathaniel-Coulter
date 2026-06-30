@@ -27,7 +27,7 @@
 
 ---
 
-## Publications & Research
+## Publications & Research:
 
 <table>
   <tr>
