@@ -37,7 +37,7 @@
 </a>
 <br />
 <strong>
-ItôFormer<br />
+ItôFormer:<br />
 Augmenting Stochastic Validity in Financial-Centric Deep Neural Networks
 </strong>
 <br />
@@ -51,7 +51,7 @@ Augmenting Stochastic Validity in Financial-Centric Deep Neural Networks
 </a>
 <br />
 <strong>
-Tokenization and Transformer Architectures<br />
+Tokenization and Transformer Architectures:<br />
 Controlled Ablation in Financial Time Series
 </strong>
 <br />
@@ -67,7 +67,7 @@ Controlled Ablation in Financial Time Series
 </a>
 <br />
 <strong>
-Neural Portfolio Allocators<br />
+Neural Portfolio Allocators:<br />
 Attention-Based Transformers and Multi-Agents
 </strong>
 <br />
@@ -81,7 +81,7 @@ Attention-Based Transformers and Multi-Agents
 </a>
 <br />
 <strong>
-Modeling Nonlinear Pharmacokinetics<br />
+Modeling Nonlinear Pharmacokinetics:<br />
 Clinical v. Anecdotal Data
 </strong>
 <br />
@@ -97,7 +97,7 @@ Clinical v. Anecdotal Data
 </a>
 <br />
 <strong>
-Quantamental Portfolio Allocators<br />
+Quantamental Portfolio Allocators:<br />
 Deriving Alpha from Fundamental Metrics with Machine Learning
 </strong>
 <br />
