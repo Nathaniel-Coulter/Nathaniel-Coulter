@@ -27,7 +27,7 @@
 <tr>
 <td bgcolor="#545454" width="25%" valign="middle">
 <a href="https://github.com/Nathaniel-Coulter/Obscura-Canvas-Uniformity">
-<big><strong><font color="#ffffff">🕵️Obscura-Canvas-Uniformity</font></strong></big>
+<big><strong><font color="#ffffff">Obscura-Canvas-Uniformity</font></strong></big>
 </a>
 <br />
 <br />
