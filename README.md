@@ -36,13 +36,13 @@
 <img src="assets/itoformer_cover_page.jpg" alt="ItôFormer cover page" width="340" />
 </a>
 <br />
-<sub>
-<strong>ItôFormer</strong><br />
+<strong>
+ItôFormer<br />
 Augmenting Stochastic Validity in Financial-Centric Deep Neural Networks
-</sub>
+</strong>
 <br />
 <a href="https://dx.doi.org/10.2139/ssrn.6742840">
-<img src="assets/ssrn.svg" alt="SSRN" height="24" />
+<img src="assets/ssrn.svg" alt="SSRN" height="36" />
 </a>
 </td>
 <td align="center" valign="top" width="50%">
@@ -50,13 +50,13 @@ Augmenting Stochastic Validity in Financial-Centric Deep Neural Networks
 <img src="assets/tokenization_cover_page.jpg" alt="Tokenization cover page" width="340" />
 </a>
 <br />
-<sub>
-<strong>Tokenization and Transformer Architectures</strong><br />
+<strong>
+Tokenization and Transformer Architectures<br />
 Controlled Ablation in Financial Time Series
-</sub>
+</strong>
 <br />
 <a href="https://dx.doi.org/10.2139/ssrn.5551019">
-<img src="assets/ssrn.svg" alt="SSRN" height="24" />
+<img src="assets/ssrn.svg" alt="SSRN" height="36" />
 </a>
 </td>
 </tr>
@@ -66,13 +66,13 @@ Controlled Ablation in Financial Time Series
 <img src="assets/neural_cover_page.jpg" alt="Neural Portfolio Allocators cover page" width="340" />
 </a>
 <br />
-<sub>
-<strong>Neural Portfolio Allocators</strong><br />
+<strong>
+Neural Portfolio Allocators<br />
 Attention-Based Transformers and Multi-Agents
-</sub>
+</strong>
 <br />
 <a href="https://dx.doi.org/10.2139/ssrn.5447734">
-<img src="assets/ssrn.svg" alt="SSRN" height="24" />
+<img src="assets/ssrn.svg" alt="SSRN" height="36" />
 </a>
 </td>
 <td align="center" valign="top" width="50%">
@@ -80,13 +80,13 @@ Attention-Based Transformers and Multi-Agents
 <img src="assets/pharmacokinetics_cover_page.jpg" alt="Pharmacokinetics cover page" width="340" />
 </a>
 <br />
-<sub>
-<strong>Modeling Nonlinear Pharmacokinetics</strong><br />
+<strong>
+Modeling Nonlinear Pharmacokinetics<br />
 Clinical v. Anecdotal Data
-</sub>
+</strong>
 <br />
 <a href="https://ssrn.com/abstract=6934521">
-<img src="assets/ssrn.svg" alt="SSRN" height="24" />
+<img src="assets/ssrn.svg" alt="SSRN" height="36" />
 </a>
 </td>
 </tr>
@@ -96,13 +96,13 @@ Clinical v. Anecdotal Data
 <img src="assets/quantamental_cover_page.jpg" alt="Quantamental Portfolio Allocators cover page" width="340" />
 </a>
 <br />
-<sub>
-<strong>Quantamental Portfolio Allocators</strong><br />
+<strong>
+Quantamental Portfolio Allocators<br />
 Deriving Alpha from Fundamental Metrics with Machine Learning
-</sub>
+</strong>
 <br />
 <a href="https://doi.org/10.5281/zenodo.17971626">
-<img src="assets/ssrn.svg" alt="SSRN" height="24" />
+<img src="assets/ssrn.svg" alt="SSRN" height="36" />
 </a>
 </td>
 <td align="center" valign="top" width="50%">
