@@ -13,11 +13,12 @@
   <a href="https://coultercapitalmanagement.com/"><img height="52" alt="Coulter Capital Management" title="Coulter Capital Management" src="assets/coultercapital.svg" /></a>
 </p>
 
+---
+
 <p align="center">
   <img src="assets/science.gif" alt="Science animation" width="520" />
 </p>
 
----
 ## Top Repositories:
 
 <table width="100%" cellpadding="0">
