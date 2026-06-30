@@ -32,12 +32,12 @@
 <tr>
 <td bgcolor="#545454" width="25%" valign="middle">
 <a href="https://github.com/Nathaniel-Coulter/Obscura-Canvas-Uniformity">
-<big><strong><font color="#ffffff">Obscura-Canvas-Uniformity</font></strong></big>
+<big><strong><font color="#ffffff">🕵️Obscura-Canvas-Uniformity</font></strong></big>
 </a>
 <br />
 <br />
 <font color="#ffffff">
-Manually control browser fingerprinting through deterministic canvas spoofing, privacy hardening, and stealth virtual-machine transparency.
+💡 Manually Control your Browser Fingerprint! Obscura: Canvas Uniformity is a Chrome Extension and browser fingerprint hardening tool focused on deterministic fingerprint spoofing, not randomization.
 </font>
 <br />
 <br />
@@ -50,13 +50,13 @@ Manually control browser fingerprinting through deterministic canvas spoofing, p
 
 <td bgcolor="#545454" width="25%" align="center" valign="middle">
 <a href="https://github.com/Nathaniel-Coulter/Obscura-Canvas-Uniformity">
-<img src="assets/obscura_logo.png" alt="Obscura logo" width="100%" />
+<img src="assets/obscura_logo_2.png" alt="Obscura logo" width="100%" />
 </a>
 </td>
 
 <td bgcolor="#545454" width="25%" align="center" valign="middle">
 <a href="https://github.com/Nathaniel-Coulter/NateBot">
-<img src="assets/natebot_logo.png" alt="NateBot logo" width="100%" />
+<img src="assets/natebot_logo_2.png" alt="NateBot logo" width="100%" />
 </a>
 </td>
 
@@ -67,7 +67,7 @@ Manually control browser fingerprinting through deterministic canvas spoofing, p
 <br />
 <br />
 <font color="#ffffff">
-Real-time chess complexity and tension analyzer using λ₁ strategic tension to make positional structure legible during play.
+Real-time chess complexity and tension analyzer using λ₁ strategic tension to make positional structure legible during play. 🧩 Custom Puzzles based on your PGN's using Machine Learning ! (NEW)
 </font>
 <br />
 <br />
