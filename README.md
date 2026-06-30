@@ -28,6 +28,59 @@
 ---
 ## Top Repositories:
 
+<table>
+<tr>
+<td width="50%" align="center" valign="top">
+<a href="https://github.com/Nathaniel-Coulter/Obscura-Canvas-Uniformity">
+<img src="assets/obscura_logo.png" alt="Obscura logo" height="80" />
+</a>
+<br />
+<br />
+<a href="https://github.com/Nathaniel-Coulter/Obscura-Canvas-Uniformity">
+<strong>Obscura-Canvas-Uniformity</strong>
+</a>
+<br />
+<br />
+Manually control browser fingerprinting through deterministic canvas spoofing, privacy hardening, and stealth virtual-machine transparency.
+<br />
+<br />
+<a href="https://github.com/Nathaniel-Coulter/Obscura-Canvas-Uniformity/stargazers">
+<img src="https://img.shields.io/github/stars/Nathaniel-Coulter/Obscura-Canvas-Uniformity?style=social" alt="Stars" />
+</a>
+<a href="https://github.com/Nathaniel-Coulter/Obscura-Canvas-Uniformity/forks">
+<img src="https://img.shields.io/github/forks/Nathaniel-Coulter/Obscura-Canvas-Uniformity?style=social" alt="Forks" />
+</a>
+</td>
+<td width="50%" align="center" valign="top">
+<a href="https://github.com/Nathaniel-Coulter/NateBot">
+<img src="assets/natebot_logo.png" alt="NateBot logo" height="80" />
+</a>
+<br />
+<br />
+<a href="https://github.com/Nathaniel-Coulter/NateBot">
+<strong>NateBot🤖</strong>
+</a>
+<br />
+<br />
+Real-time chess complexity and tension analyzer using λ₁ strategic tension to make positional structure legible during play.
+<br />
+<br />
+<a href="https://github.com/Nathaniel-Coulter/NateBot/stargazers">
+<img src="https://img.shields.io/github/stars/Nathaniel-Coulter/NateBot?style=social" alt="Stars" />
+</a>
+<a href="https://github.com/Nathaniel-Coulter/NateBot/forks">
+<img src="https://img.shields.io/github/forks/Nathaniel-Coulter/NateBot?style=social" alt="Forks" />
+</a>
+</td>
+</tr>
+</table>
+
+<p align="left">
+<a href="https://github.com/Nathaniel-Coulter?tab=repositories&sort=stargazers">
+<img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-View%20All%20Repositories-1F222E?style=for-the-badge&logoColor=white&logo=repo" />
+</a>
+</p>
+
   <a href="https://github.com/Nathaniel-Coulter?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
 </details>
 
