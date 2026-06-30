@@ -150,7 +150,7 @@ Deriving Alpha from Fundamental Metrics with Machine Learning
 </strong>
 <br />
 <a href="https://doi.org/10.5281/zenodo.17971626">
-<img src="assets/ssrn.svg" alt="SSRN" height="36" />
+<img src="assets/zenodo.svg" alt="SSRN" height="36" />
 </a>
 </td>
 <td align="center" valign="top" width="50%">
