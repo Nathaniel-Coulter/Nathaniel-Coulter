@@ -1,59 +1,26 @@
-<h1 align="center">Nathaniel Coul horizontal rule.
-
-Use this structure:
-
-```html
 <h1 align="center">Nathaniel Coulter</h1>
-
-<!-- Social icons section -->
-<p align="center">
-  <a href="https://www.linkedin.com/in/longzter</h1>
-
-<!-- Social icons section -->
-<p align="center">
-  <a href="https://www.linkedin.com/in/longzomma/">
-    <img height="32" alt="LinkedIn" title="LinkedIn" src="assets/linkomma/">
-    <img height="32" alt="LinkedIn" title="LinkedIn" src="assets/linkedin.svg" />
-  </a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-
-  <a href="httpsedin.svg" />
-  </a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-
-  <a href="https://orcid.org/0009-0007-1469-7055">
-    <img height="32" alt://orcid.org/0009-0007-1469-7055">
-    <img height="32" alt="ORCID" title="ORCID" src="assets/orcid.svg" />
-  </a>
-  &#8287;&#8287;&#8287;&#="ORCID" title="ORCID" src="assets/orcid.svg" />
-  </a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-
-  <a href="https://coultercapitalmanagement.com/">
-    <img height="32" alt="C8287;&#8287;
-
-  <a href="https://coultercapitalmanagement.com/">
-    <img height="32" alt="Coulter Capital Management" title="Coulter Capital Management" src="assets/coultercapital.svg" />
- oulter Capital Management" title="Coulter Capital Management" src="assets/coultercapital.svg" />
-  </a>
-</p>
-
-<p align="center">
-  <strong><code>Quantitative Research • Applied Mathematics • Machine </a>
-</p>
 
 <p align="center">
   <strong><code>Quantitative Research • Applied Mathematics • Machine Learning</code></strong>
 </p>
 
----
-
-<p align="center">
-  <img src="assets/science.gif" alt="Science animation" width Learning</code></strong>
-</p>
-
----
-
 <p align="center">
   <img src="assets/science.gif" alt="Science animation" width="520" />
+</p>
+
+<!-- Social icons section -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/longzomma/">
+    <img height="32" alt="LinkedIn" title="LinkedIn" src="assets/linkedin.svg" />
+  </a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+
+  <a href="https://orcid.org/0009-0007-1469-7055">
+    <img height="32" alt="ORCID" title="ORCID" src="assets/orcid.svg" />
+  </a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+
+  <a href="https://coultercapitalmanagement.com/">
+    <img height="32" alt="Coulter Capital Management" title="Coulter Capital Management" src="assets/coultercapital.svg" />
+  </a>
 </p>
