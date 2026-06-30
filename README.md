@@ -1,5 +1,9 @@
 <h1 align="center">Nathaniel Coulter</h1>
 
+<p align="center">
+  <strong><code>Quantitative Research • Applied Mathematics • Machine Learning</code></strong>
+</p>
+
 <!-- Social icons section -->
 <p align="center">
   <a href="https://www.linkedin.com/in/longzomma/">
@@ -17,14 +21,9 @@
   </a>
 </p>
 
-<p align="center">
-  <strong><code>Quantitative Research • Applied Mathematics • Machine Learning</code></strong>
-</p>
-
 ---
 
 <p align="center">
   <img src="assets/science.gif" alt="Science animation" width="520" />
 </p>
 
----
