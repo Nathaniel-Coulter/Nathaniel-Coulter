@@ -1,13 +1,5 @@
 <h1 align="center">Nathaniel Coulter</h1>
 
-<p align="center">
-  <strong><code>Quantitative Research • Applied Mathematics • Machine Learning</code></strong>
-</p>
-
-<p align="center">
-  <img src="assets/science.gif" alt="Science animation" width="520" />
-</p>
-
 <!-- Social icons section -->
 <p align="center">
   <a href="https://www.linkedin.com/in/longzomma/">
@@ -24,3 +16,15 @@
     <img height="32" alt="Coulter Capital Management" title="Coulter Capital Management" src="assets/coultercapital.svg" />
   </a>
 </p>
+
+<p align="center">
+  <strong><code>Quantitative Research • Applied Mathematics • Machine Learning</code></strong>
+</p>
+
+---
+
+<p align="center">
+  <img src="assets/science.gif" alt="Science animation" width="520" />
+</p>
+
+---
