@@ -48,12 +48,12 @@
 <br />
 <a href="https://github.com/Nathaniel-Coulter/Obscura-Canvas-Uniformity/stargazers">
 <img src="assets/star.svg" alt="Stars" height="30" />
-<img src="https://img.shields.io/github/stars/Nathaniel-Coulter/Obscura-Canvas-Uniformity?style=flat-square&label=&color=ffea00" alt="Obscura stars" />
+<img src="https://img.shields.io/github/stars/Nathaniel-Coulter/Obscura-Canvas-Uniformity?style=flat-square&label=stars&labelColor=545454&color=ffea00" alt="Obscura stars" />
 </a>
 &nbsp;&nbsp;
 <a href="https://github.com/Nathaniel-Coulter/Obscura-Canvas-Uniformity/forks">
 <img src="assets/fork.svg" alt="Forks" height="30" />
-<img src="https://img.shields.io/github/forks/Nathaniel-Coulter/Obscura-Canvas-Uniformity?style=flat-square&label=&color=ffea00" alt="Obscura forks" />
+<img src="https://img.shields.io/github/forks/Nathaniel-Coulter/Obscura-Canvas-Uniformity?style=flat-square&label=forks&labelColor=545454&color=ffea00" alt="Obscura forks" />
 </a>
 </td>
 
@@ -64,12 +64,12 @@
 <br />
 <a href="https://github.com/Nathaniel-Coulter/NateBot/stargazers">
 <img src="assets/star.svg" alt="Stars" height="30" />
-<img src="https://img.shields.io/github/stars/Nathaniel-Coulter/NateBot?style=flat-square&label=&color=ffea00" alt="NateBot stars" />
+<img src="https://img.shields.io/github/stars/Nathaniel-Coulter/NateBot?style=flat-square&label=stars&labelColor=545454&color=ffea00" alt="NateBot stars" />
 </a>
 &nbsp;&nbsp;
 <a href="https://github.com/Nathaniel-Coulter/NateBot/forks">
 <img src="assets/fork.svg" alt="Forks" height="30" />
-<img src="https://img.shields.io/github/forks/Nathaniel-Coulter/NateBot?style=flat-square&label=&color=ffea00" alt="NateBot forks" />
+<img src="https://img.shields.io/github/forks/Nathaniel-Coulter/NateBot?style=flat-square&label=forks&labelColor=545454&color=ffea00" alt="NateBot forks" />
 </a>
 </td>
 
