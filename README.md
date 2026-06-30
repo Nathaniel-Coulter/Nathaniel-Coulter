@@ -1,4 +1,4 @@
-<h1 align="center">𝓝𝓪𝓽𝓱𝓪𝓷𝓲𝓮𝓵 𝓒𝓸𝓾𝓵𝓽𝓮𝓻</h1>
+<h1 align="center">ℕ𝕒𝕥𝕙𝕒𝕟𝕚𝕖𝕝 ℂ𝕠𝕦𝕝𝕥𝕖𝕣</h1>
 
 <!-- Social icons section -->
 <p align="center">
