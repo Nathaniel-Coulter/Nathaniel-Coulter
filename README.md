@@ -27,50 +27,65 @@
 
 ---
 ## Top Repositories:
+## Top Repositories:
 
 <table>
 <tr>
-<td width="50%" align="center" valign="top">
+<td width="50%" valign="top" bgcolor="#4f4f4f">
+<table width="100%">
+<tr>
+<td width="62%" valign="top">
 <a href="https://github.com/Nathaniel-Coulter/Obscura-Canvas-Uniformity">
-<img src="assets/obscura_logo.png" alt="Obscura logo" height="80" />
+<font color="#ffffff"><strong><u>Obscura-Canvas-Uniformity</u></strong></font>
 </a>
 <br />
 <br />
-<a href="https://github.com/Nathaniel-Coulter/Obscura-Canvas-Uniformity">
-<strong>Obscura-Canvas-Uniformity</strong>
-</a>
-<br />
-<br />
+<font color="#ffffff">
 Manually control browser fingerprinting through deterministic canvas spoofing, privacy hardening, and stealth virtual-machine transparency.
+</font>
 <br />
 <br />
-<a href="https://github.com/Nathaniel-Coulter/Obscura-Canvas-Uniformity/stargazers">
-<img src="https://img.shields.io/github/stars/Nathaniel-Coulter/Obscura-Canvas-Uniformity?style=social" alt="Stars" />
-</a>
-<a href="https://github.com/Nathaniel-Coulter/Obscura-Canvas-Uniformity/forks">
-<img src="https://img.shields.io/github/forks/Nathaniel-Coulter/Obscura-Canvas-Uniformity?style=social" alt="Forks" />
+<img src="assets/star.svg" alt="Stars" height="28" />
+<font color="#ffea00"><strong>4</strong></font>
+&nbsp;&nbsp;&nbsp;
+<img src="assets/fork.svg" alt="Forks" height="28" />
+<font color="#ffea00"><strong>3</strong></font>
+</td>
+<td width="38%" align="center" valign="middle">
+<a href="https://github.com/Nathaniel-Coulter/Obscura-Canvas-Uniformity">
+<img src="assets/obscura_logo.png" alt="Obscura logo" width="150" />
 </a>
 </td>
-<td width="50%" align="center" valign="top">
+</tr>
+</table>
+</td>
+<td width="50%" valign="top" bgcolor="#4f4f4f">
+<table width="100%">
+<tr>
+<td width="38%" align="center" valign="middle">
 <a href="https://github.com/Nathaniel-Coulter/NateBot">
-<img src="assets/natebot_logo.png" alt="NateBot logo" height="80" />
+<img src="assets/natebot_logo.png" alt="NateBot logo" width="150" />
+</a>
+</td>
+<td width="62%" valign="top">
+<a href="https://github.com/Nathaniel-Coulter/NateBot">
+<font color="#ffffff"><strong><u>NateBot 🤖</u></strong></font>
 </a>
 <br />
 <br />
-<a href="https://github.com/Nathaniel-Coulter/NateBot">
-<strong>NateBot🤖</strong>
-</a>
-<br />
-<br />
+<font color="#ffffff">
 Real-time chess complexity and tension analyzer using λ₁ strategic tension to make positional structure legible during play.
+</font>
 <br />
 <br />
-<a href="https://github.com/Nathaniel-Coulter/NateBot/stargazers">
-<img src="https://img.shields.io/github/stars/Nathaniel-Coulter/NateBot?style=social" alt="Stars" />
-</a>
-<a href="https://github.com/Nathaniel-Coulter/NateBot/forks">
-<img src="https://img.shields.io/github/forks/Nathaniel-Coulter/NateBot?style=social" alt="Forks" />
-</a>
+<img src="assets/star.svg" alt="Stars" height="28" />
+<font color="#ffea00"><strong>29</strong></font>
+&nbsp;&nbsp;&nbsp;
+<img src="assets/fork.svg" alt="Forks" height="28" />
+<font color="#ffea00"><strong>3</strong></font>
+</td>
+</tr>
+</table>
 </td>
 </tr>
 </table>
