@@ -28,14 +28,11 @@
 ---
 ## Top Repositories:
 
-<table>
+<table width="100%" cellpadding="0">
 <tr>
-<td width="50%" valign="top" bgcolor="#4f4f4f">
-<table width="100%">
-<tr>
-<td width="62%" valign="top">
+<td bgcolor="#545454" width="25%" valign="middle">
 <a href="https://github.com/Nathaniel-Coulter/Obscura-Canvas-Uniformity">
-<font color="#ffffff"><strong><u>Obscura-Canvas-Uniformity</u></strong></font>
+<big><strong><font color="#ffffff">Obscura-Canvas-Uniformity</font></strong></big>
 </a>
 <br />
 <br />
@@ -44,31 +41,28 @@ Manually control browser fingerprinting through deterministic canvas spoofing, p
 </font>
 <br />
 <br />
-<img src="assets/star.svg" alt="Stars" height="28" />
-<font color="#ffea00"><strong>4</strong></font>
+<img src="assets/star.svg" alt="Stars" height="32" />
+<big><strong><font color="#ffea00">4</font></strong></big>
 &nbsp;&nbsp;&nbsp;
-<img src="assets/fork.svg" alt="Forks" height="28" />
-<font color="#ffea00"><strong>3</strong></font>
+<img src="assets/fork.svg" alt="Forks" height="32" />
+<big><strong><font color="#ffea00">3</font></strong></big>
 </td>
-<td width="38%" align="center" valign="middle">
+
+<td bgcolor="#545454" width="25%" align="center" valign="middle">
 <a href="https://github.com/Nathaniel-Coulter/Obscura-Canvas-Uniformity">
-<img src="assets/obscura_logo.png" alt="Obscura logo" width="150" />
+<img src="assets/obscura_logo.png" alt="Obscura logo" width="100%" />
 </a>
 </td>
-</tr>
-</table>
-</td>
-<td width="50%" valign="top" bgcolor="#4f4f4f">
-<table width="100%">
-<tr>
-<td width="38%" align="center" valign="middle">
+
+<td bgcolor="#545454" width="25%" align="center" valign="middle">
 <a href="https://github.com/Nathaniel-Coulter/NateBot">
-<img src="assets/natebot_logo.png" alt="NateBot logo" width="150" />
+<img src="assets/natebot_logo.png" alt="NateBot logo" width="100%" />
 </a>
 </td>
-<td width="62%" valign="top">
+
+<td bgcolor="#545454" width="25%" valign="middle">
 <a href="https://github.com/Nathaniel-Coulter/NateBot">
-<font color="#ffffff"><strong><u>NateBot 🤖</u></strong></font>
+<big><strong><font color="#ffffff">NateBot 🤖</font></strong></big>
 </a>
 <br />
 <br />
@@ -77,14 +71,11 @@ Real-time chess complexity and tension analyzer using λ₁ strategic tension to
 </font>
 <br />
 <br />
-<img src="assets/star.svg" alt="Stars" height="28" />
-<font color="#ffea00"><strong>29</strong></font>
+<img src="assets/star.svg" alt="Stars" height="32" />
+<big><strong><font color="#ffea00">29</font></strong></big>
 &nbsp;&nbsp;&nbsp;
-<img src="assets/fork.svg" alt="Forks" height="28" />
-<font color="#ffea00"><strong>3</strong></font>
-</td>
-</tr>
-</table>
+<img src="assets/fork.svg" alt="Forks" height="32" />
+<big><strong><font color="#ffea00">3</font></strong></big>
 </td>
 </tr>
 </table>
@@ -94,8 +85,6 @@ Real-time chess complexity and tension analyzer using λ₁ strategic tension to
 <img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-View%20All%20Repositories-1F222E?style=for-the-badge&logoColor=white&logo=repo" />
 </a>
 </p>
-
----
 
 ## Publications & Research:
 
