@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="assets/Science.gif" alt="Science animation" width="520" />
+  <img src="[assets/Science.gif](https://github.com/Nathaniel-Coulter/Nathaniel-Coulter/blob/main/assets/science.gif)" alt="Science animation" width="520" />
 </p>
 
 <!-- Social icons section -->
