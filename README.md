@@ -27,3 +27,73 @@
 
 ---
 
+## Publications & Research
+
+<table>
+  <tr>
+    <td align="center" valign="top" width="33%">
+      <a href="https://dx.doi.org/10.2139/ssrn.6742840">
+        <img src="assets/itoformer_cover_page.jpg" alt="ItôFormer cover page" width="260" />
+      </a>
+      <br />
+      <sub><strong>ItôFormer</strong></sub>
+      <br />
+      <a href="https://dx.doi.org/10.2139/ssrn.6742840">
+        <img src="assets/ssrn.svg" alt="SSRN" height="24" />
+      </a>
+    </td>
+
+    <td align="center" valign="top" width="33%">
+      <a href="https://dx.doi.org/10.2139/ssrn.5551019">
+        <img src="assets/tokenization_cover_page.jpg" alt="Tokenization cover page" width="260" />
+      </a>
+      <br />
+      <sub><strong>Tokenization & Transformer Architectures</strong></sub>
+      <br />
+      <a href="https://dx.doi.org/10.2139/ssrn.5551019">
+        <img src="assets/ssrn.svg" alt="SSRN" height="24" />
+      </a>
+    </td>
+
+    <td align="center" valign="top" width="33%">
+      <a href="https://dx.doi.org/10.2139/ssrn.5447734">
+        <img src="assets/neural_cover_page.jpg" alt="Neural Portfolio Allocators cover page" width="260" />
+      </a>
+      <br />
+      <sub><strong>Neural Portfolio Allocators</strong></sub>
+      <br />
+      <a href="https://dx.doi.org/10.2139/ssrn.5447734">
+        <img src="assets/ssrn.svg" alt="SSRN" height="24" />
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center" valign="top" width="33%">
+      <a href="https://ssrn.com/abstract=6934521">
+        <img src="assets/pharmacokinetics_cover_page.jpg" alt="Pharmacokinetics cover page" width="260" />
+      </a>
+      <br />
+      <sub><strong>Modeling Nonlinear Pharmacokinetics</strong></sub>
+      <br />
+      <a href="https://ssrn.com/abstract=6934521">
+        <img src="assets/ssrn.svg" alt="SSRN" height="24" />
+      </a>
+    </td>
+
+    <td align="center" valign="top" width="33%">
+      <a href="https://doi.org/10.5281/zenodo.17971626">
+        <img src="assets/quantamental_cover_page.jpg" alt="Quantamental Portfolio Allocators cover page" width="260" />
+      </a>
+      <br />
+      <sub><strong>Quantamental Portfolio Allocators</strong></sub>
+      <br />
+      <a href="https://doi.org/10.5281/zenodo.17971626">
+        <img src="assets/ssrn.svg" alt="Zenodo" height="24" />
+      </a>
+    </td>
+
+    <td align="center" valign="top" width="33%">
+    </td>
+  </tr>
+</table>
