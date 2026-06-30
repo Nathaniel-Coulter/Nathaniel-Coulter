@@ -76,7 +76,7 @@
 </p>
 
 <p align="center">
-<img src="https://ghstats.dev/api/card?username=Nathaniel-Coulter&theme=tokyonight&border_radius=10&custom_title=Nathaniel-Coulter%27s+Github+Stats&size=compact&compact_count=3&order=hours%2Cstars%2Ccontributions%2Ccommits%2Crepos%2Cprs%2Cissues%2Cstreak%2Cgrade%2Cweek%2Ctrend%2Cavg%2Cactive_day%2Cfollowers" alt="GitHub Stats Card" />
+<img src="https://ghstats.dev/api/card?username=Nathaniel-Coulter&theme=midnight&border_radius=10&custom_title=Nathaniel-Coulter%27s+Github+Stats&size=compact&compact_count=3&order=hours%2Cstars%2Ccommits%2Cprs%2Cissues%2Cstreak%2Cweek%2Ctrend%2Cavg%2Cactive_day%2Cgrade%2Ccontributions%2Crepos%2Cfollowers" alt="GitHub Stats Card" />
 </p>
 
 ## 𝖯𝗎𝖻𝗅𝗂𝖼𝖺𝗍𝗂𝗈𝗇𝗌 & 𝖱𝖾𝗌𝖾𝖺𝗋𝖼𝗁:
