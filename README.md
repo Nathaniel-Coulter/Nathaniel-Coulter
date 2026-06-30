@@ -21,18 +21,18 @@
 
 ---
 
-## Top Repositories:
+## 𝖳𝗈𝗉 𝖱𝖾𝗉𝗈𝗌𝗂𝗍𝗈𝗋𝗂𝖾𝗌:
 
 <table width="100%" cellpadding="0">
 <tr>
 <td bgcolor="#545454" width="25%" valign="middle">
 <a href="https://github.com/Nathaniel-Coulter/Obscura-Canvas-Uniformity">
-<big><strong><font color="#ffffff">Obscura-Canvas-Uniformity</font></strong></big>
+<big><strong><font color="#ffffff">𝖮𝖻𝗌𝖼𝗎𝗋𝖺-𝖢𝖺𝗇𝗏𝖺𝗌-𝖴𝗇𝗂𝖿𝗈𝗋𝗆𝗂𝗍𝗒</font></strong></big>
 </a>
 <br />
 <br />
 <font color="#ffffff">
-💡 Manually Control your Browser Fingerprint! Obscura: Canvas Uniformity is a Chrome Extension and browser fingerprint hardening tool focused on deterministic fingerprint spoofing, not randomization.
+💡 𝖬𝖺𝗇𝗎𝖺𝗅𝗅𝗒 𝖢𝗈𝗇𝗍𝗋𝗈𝗅 𝗒𝗈𝗎𝗋 𝖡𝗋𝗈𝗐𝗌𝖾𝗋 𝖥𝗂𝗇𝗀𝖾𝗋𝗉𝗋𝗂𝗇𝗍! 𝖮𝖻𝗌𝖼𝗎𝗋𝖺: 𝖢𝖺𝗇𝗏𝖺𝗌 𝖴𝗇𝗂𝖿𝗈𝗋𝗆𝗂𝗍𝗒 𝗂𝗌 𝖺 𝖢𝗁𝗋𝗈𝗆𝖾 𝖤𝗑𝗍𝖾𝗇𝗌𝗂𝗈𝗇 𝖺𝗇𝖽 𝖻𝗋𝗈𝗐𝗌𝖾𝗋 𝖿𝗂𝗇𝗀𝖾𝗋𝗉𝗋𝗂𝗇𝗍 𝗁𝖺𝗋𝖽𝖾𝗇𝗂𝗇𝗀 𝗍𝗈𝗈𝗅 𝖿𝗈𝖼𝗎𝗌𝖾𝖽 𝗈𝗇 𝖽𝖾𝗍𝖾𝗋𝗆𝗂𝗇𝗂𝗌𝗍𝗂𝖼 𝖿𝗂𝗇𝗀𝖾𝗋𝗉𝗋𝗂𝗇𝗍 𝗌𝗉𝗈𝗈𝖿𝗂𝗇𝗀, 𝗇𝗈𝗍 𝗋𝖺𝗇𝖽𝗈𝗆𝗂𝗓𝖺𝗍𝗂𝗈𝗇.
 </font>
 </td>
 
@@ -58,12 +58,12 @@
 
 <td bgcolor="#545454" width="25%" valign="middle">
 <a href="https://github.com/Nathaniel-Coulter/NateBot">
-<big><strong><font color="#ffffff">NateBot 🤖</font></strong></big>
+<big><strong><font color="#ffffff">𝖭𝖺𝗍𝖾𝖡𝗈𝗍 🤖</font></strong></big>
 </a>
 <br />
 <br />
 <font color="#ffffff">
-Real-time chess complexity and tension analyzer using λ₁ strategic tension to make positional structure legible during play. 🧩 Custom Puzzles based on your PGN's using Machine Learning ! (NEW)
+𝖱𝖾𝖺𝗅-𝗍𝗂𝗆𝖾 𝖼𝗁𝖾𝗌𝗌 𝖼𝗈𝗆𝗉𝗅𝖾𝗑𝗂𝗍𝗒 𝖺𝗇𝖽 𝗍𝖾𝗇𝗌𝗂𝗈𝗇 𝖺𝗇𝖺𝗅𝗒𝗓𝖾𝗋 𝗎𝗌𝗂𝗇𝗀 λ𝟣 𝗌𝗍𝗋𝖺𝗍𝖾𝗀𝗂𝖼 𝗍𝖾𝗇𝗌𝗂𝗈𝗇 𝗍𝗈 𝗆𝖺𝗄𝖾 𝗉𝗈𝗌𝗂𝗍𝗂𝗈𝗇𝖺𝗅 𝗌𝗍𝗋𝗎𝖼𝗍𝗎𝗋𝖾 𝗅𝖾𝗀𝗂𝖻𝗅𝖾 𝖽𝗎𝗋𝗂𝗇𝗀 𝗉𝗅𝖺𝗒. 🧩 𝖢𝗎𝗌𝗍𝗈𝗆 𝖯𝗎𝗓𝗓𝗅𝖾𝗌 𝖻𝖺𝗌𝖾𝖽 𝗈𝗇 𝗒𝗈𝗎𝗋 𝖯𝖦𝖭'𝗌 𝗎𝗌𝗂𝗇𝗀 𝖬𝖺𝖼𝗁𝗂𝗇𝖾 𝖫𝖾𝖺𝗋𝗇𝗂𝗇𝗀 ! (𝖭𝖤𝖶)
 </font>
 </td>
 </tr>
