@@ -37,20 +37,20 @@
 <td bgcolor="#545454" width="25%" align="center" valign="middle">
 <a href="https://github.com/Nathaniel-Coulter/Obscura-Canvas-Uniformity"><img src="assets/obscura_logo_2.png" alt="Obscura logo" width="92%" /></a>
 <br />
-<img src="assets/star.svg" alt="Stars" height="32" />
+<img src="assets/star2.svg" alt="Stars" height="32" />
 <big><strong><font color="#ffea00"><!-- OBSCURA_STARS -->4<!-- /OBSCURA_STARS --></font></strong></big>
 &nbsp;&nbsp;&nbsp;
-<img src="assets/fork.svg" alt="Forks" height="32" />
+<img src="assets/fork2.svg" alt="Forks" height="32" />
 <big><strong><font color="#ffea00"><!-- OBSCURA_FORKS -->3<!-- /OBSCURA_FORKS --></font></strong></big>
 </td>
 
 <td bgcolor="#545454" width="25%" align="center" valign="middle">
 <a href="https://github.com/Nathaniel-Coulter/NateBot"><img src="assets/natebot_logo_2.png" alt="NateBot logo" width="92%" /></a>
 <br />
-<img src="assets/star.svg" alt="Stars" height="32" />
+<img src="assets/star2.svg" alt="Stars" height="32" />
 <big><strong><font color="#ffea00"><!-- NATEBOT_STARS -->29<!-- /NATEBOT_STARS --></font></strong></big>
 &nbsp;&nbsp;&nbsp;
-<img src="assets/fork.svg" alt="Forks" height="32" />
+<img src="assets/fork2.svg" alt="Forks" height="32" />
 <big><strong><font color="#ffea00"><!-- NATEBOT_FORKS -->3<!-- /NATEBOT_FORKS --></font></strong></big>
 </td>
 
