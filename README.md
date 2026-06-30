@@ -50,7 +50,7 @@
 <a href="https://github.com/Nathaniel-Coulter/NateBot"><img src="assets/natebot_logo_2.png" alt="NateBot logo" width="92%" /></a>
 <br />
 <img src="assets/star2.svg" alt="Stars" height="32" />
-<big><strong><font color="#ffea00"><!-- NATEBOT_STARS -->29<!-- /NATEBOT_STARS --></font></strong></big>
+<big><strong><font color="#ffea00"><!-- NATEBOT_STARS -->28<!-- /NATEBOT_STARS --></font></strong></big>
 &nbsp;&nbsp;&nbsp;
 <img src="assets/fork2.svg" alt="Forks" height="32" />
 <big><strong><font color="#ffea00"><!-- NATEBOT_FORKS -->3<!-- /NATEBOT_FORKS --></font></strong></big>
