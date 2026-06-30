@@ -10,7 +10,9 @@
 </p>
 
 <p align="center">
-  <strong><code>Quantitative Research • Applied Mathematics • Machine Learning</code></strong>
+  <img alt="Quantitative Research" src="https://custom-icon-badges.demolab.com/badge/-Quantitative%20Research-1F222E?style=for-the-badge&logo=dot-16&logoColor=ffea00" />
+  <img alt="Applied Mathematics" src="https://custom-icon-badges.demolab.com/badge/-Applied%20Mathematics-1F222E?style=for-the-badge&logo=dot-16&logoColor=ffea00" />
+  <img alt="Machine Learning" src="https://custom-icon-badges.demolab.com/badge/-Machine%20Learning-1F222E?style=for-the-badge&logo=dot-16&logoColor=ffea00" />
 </p>
 
 <p align="center">
