@@ -27,7 +27,6 @@
 
 ---
 ## Top Repositories:
-## Top Repositories:
 
 <table>
 <tr>
