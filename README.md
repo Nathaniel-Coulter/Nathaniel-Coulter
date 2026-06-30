@@ -39,24 +39,37 @@
 <font color="#ffffff">
 💡 Manually Control your Browser Fingerprint! Obscura: Canvas Uniformity is a Chrome Extension and browser fingerprint hardening tool focused on deterministic fingerprint spoofing, not randomization.
 </font>
-<br />
-<br />
-<img src="assets/star.svg" alt="Stars" height="32" />
-<big><strong><font color="#ffea00">4</font></strong></big>
-&nbsp;&nbsp;&nbsp;
-<img src="assets/fork.svg" alt="Forks" height="32" />
-<big><strong><font color="#ffea00">3</font></strong></big>
 </td>
 
 <td bgcolor="#545454" width="25%" align="center" valign="middle">
 <a href="https://github.com/Nathaniel-Coulter/Obscura-Canvas-Uniformity">
-<img src="assets/obscura_logo_2.png" alt="Obscura logo" width="100%" />
+<img src="assets/obscura_logo_2.png" alt="Obscura logo" width="92%" />
+</a>
+<br />
+<a href="https://github.com/Nathaniel-Coulter/Obscura-Canvas-Uniformity/stargazers">
+<img src="assets/star.svg" alt="Stars" height="30" />
+<img src="https://img.shields.io/github/stars/Nathaniel-Coulter/Obscura-Canvas-Uniformity?style=flat-square&label=&color=ffea00" alt="Obscura stars" />
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/Nathaniel-Coulter/Obscura-Canvas-Uniformity/forks">
+<img src="assets/fork.svg" alt="Forks" height="30" />
+<img src="https://img.shields.io/github/forks/Nathaniel-Coulter/Obscura-Canvas-Uniformity?style=flat-square&label=&color=ffea00" alt="Obscura forks" />
 </a>
 </td>
 
 <td bgcolor="#545454" width="25%" align="center" valign="middle">
 <a href="https://github.com/Nathaniel-Coulter/NateBot">
-<img src="assets/natebot_logo_2.png" alt="NateBot logo" width="100%" />
+<img src="assets/natebot_logo_2.png" alt="NateBot logo" width="92%" />
+</a>
+<br />
+<a href="https://github.com/Nathaniel-Coulter/NateBot/stargazers">
+<img src="assets/star.svg" alt="Stars" height="30" />
+<img src="https://img.shields.io/github/stars/Nathaniel-Coulter/NateBot?style=flat-square&label=&color=ffea00" alt="NateBot stars" />
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/Nathaniel-Coulter/NateBot/forks">
+<img src="assets/fork.svg" alt="Forks" height="30" />
+<img src="https://img.shields.io/github/forks/Nathaniel-Coulter/NateBot?style=flat-square&label=&color=ffea00" alt="NateBot forks" />
 </a>
 </td>
 
@@ -69,13 +82,6 @@
 <font color="#ffffff">
 Real-time chess complexity and tension analyzer using λ₁ strategic tension to make positional structure legible during play. 🧩 Custom Puzzles based on your PGN's using Machine Learning ! (NEW)
 </font>
-<br />
-<br />
-<img src="assets/star.svg" alt="Stars" height="32" />
-<big><strong><font color="#ffea00">29</font></strong></big>
-&nbsp;&nbsp;&nbsp;
-<img src="assets/fork.svg" alt="Forks" height="32" />
-<big><strong><font color="#ffea00">3</font></strong></big>
 </td>
 </tr>
 </table>
