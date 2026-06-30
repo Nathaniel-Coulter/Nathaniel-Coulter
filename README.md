@@ -75,7 +75,7 @@
 </a>
 </p>
 
-## Publications & Research:
+## 𝖯𝗎𝖻𝗅𝗂𝖼𝖺𝗍𝗂𝗈𝗇𝗌 & 𝖱𝖾𝗌𝖾𝖺𝗋𝖼𝗁:
 
 <table>
 <tr>
