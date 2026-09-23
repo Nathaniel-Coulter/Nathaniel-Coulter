@@ -2,7 +2,7 @@
 
 <!-- Social icons section -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/longzomma/"><img height="52" alt="LinkedIn" title="LinkedIn" src="assets/linkedin.svg" /></a>
+  <a href="https://www.linkedin.com/in/nathanielcoulter/"><img height="52" alt="LinkedIn" title="LinkedIn" src="assets/linkedin.svg" /></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://orcid.org/0009-0007-1469-7055"><img height="52" alt="ORCID" title="ORCID" src="assets/orcid.svg" /></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
