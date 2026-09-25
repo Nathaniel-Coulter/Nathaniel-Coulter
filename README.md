@@ -180,3 +180,5 @@ Deriving Alpha from Fundamental Metrics with Machine Learning
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" />
 </p>
+
+<b>Nathaniel Coulter</b> is a quantitative researcher at Columbia University whose work focuses on machine learning, quantitative finance, market microstructure, and algorithmic trading. He founded and managed Coulter Capital Management, a quantitative hedge fund focused on automated trading and equity derivatives. His academic research includes transformer architectures for financial time series, neural portfolio allocation, and cross-asset quantitative modeling. Coulter holds a B.S. in Financial Mathematics with a minor in Data Science and an M.S. in Finance from St. John’s University, and is currently a postgraduate researcher at Columbia University in New York. He also speaks Mandarin Chinese and, prior to founding Coulter Capital Management, studied under Dr. James Watson at Cold Spring Harbor Laboratory.
